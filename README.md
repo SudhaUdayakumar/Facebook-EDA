@@ -1,4 +1,5 @@
-https://github.com/sudayaku/Facebook-EDA/blob/main/Facebook%20EDA%20Intro.png
+
+![enter image description here](https://github.com/sudayaku/Facebook-EDA/blob/main/Facebook%20EDA%20Intro.png?raw=true)
 
 ## Introduction
 
@@ -10,9 +11,9 @@ I have done an Exploratory Data Analysis (EDA) for this Facebook data to find th
 
 ## Tools used
 
-[enter link description here](https://github.com/sudayaku/Facebook-EDA/blob/main/Python%20libraries.jpg)
 
 <![endif]-->
+![enter image description here](https://github.com/sudayaku/Facebook-EDA/blob/main/Python%20libraries.jpg?raw=true)
 
 Python is one of the most popular languages used by data scientists and software developers alike for data science tasks. It can be used to predict outcomes, automate tasks, streamline processes, and offer business intelligence insights.
 
@@ -35,8 +36,7 @@ Data Visualization
 <![endif]-->
 
 EDA with Python
-[enter link description here](https://github.com/sudayaku/Facebook-EDA/blob/main/EDA%20with%20Python.png)
-<![endif]-->
+![enter image description here](https://github.com/sudayaku/Facebook-EDA/blob/main/EDA%20with%20Python.png?raw=true)
 
 After cleaning up the data (deleting, replacing, handling the outliers etc) and pandas profiling to look at the bigger picture, moved on to the EDA. Created Various age groups to categorize minors, younger work force, senior citizens etc. Also identified the Inactive users and saw their pattern as well
 
@@ -48,13 +48,12 @@ SWOT Analysis
 <![endif]-->
 
 Summarized the EDA with SWTO analysis as it is quick and easy to understand. It clearly showed where the gender-age group where they are active, loose steam and inactive as well
-[enter link description here](https://github.com/sudayaku/Facebook-EDA/blob/main/FB-SWOT.JPG)
-### <![endif]-->
-
+![enter image description here](https://github.com/sudayaku/Facebook-EDA/blob/main/FB-SWOT.JPG?raw=true)
 Actionable Insights
 <![endif]-->
 
 Suggested ways to increase the Facebook popularity based on the weaker areas and general recommendation to increase the Facebook usage.
-[enter link description here](https://github.com/sudayaku/Facebook-EDA/blob/main/FB-Actionable%20Insights.JPG)
+
+![enter image description here](https://github.com/sudayaku/Facebook-EDA/blob/main/FB-Actionable%20Insights.JPG?raw=true)
 
 To check out my notebook, please click [here](https://github.com/sudayaku/Facebook-EDA/blob/main/Facebook%20EDA.ipynb)
