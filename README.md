@@ -1,6 +1,4 @@
-[enter link description here](https://github.com/sudayaku/Facebook-EDA/blob/main/Facebook%20EDA%20Intro.png)
-
-<![endif]-->
+https://github.com/sudayaku/Facebook-EDA/blob/main/Facebook%20EDA%20Intro.png
 
 ## Introduction
 
