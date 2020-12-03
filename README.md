@@ -10,8 +10,6 @@ I have done an Exploratory Data Analysis (EDA) for this Facebook data to find th
 
 ## Tools used
 
-
-<![endif]-->
 ![enter image description here](https://github.com/sudayaku/Facebook-EDA/blob/main/Python%20libraries.jpg?raw=true)
 
 Python is one of the most popular languages used by data scientists and software developers alike for data science tasks. It can be used to predict outcomes, automate tasks, streamline processes, and offer business intelligence insights.
